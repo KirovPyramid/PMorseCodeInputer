@@ -6,7 +6,7 @@ using System.Linq;
 
 public class CodeTest : MonoBehaviour
 {
-    public AudioSource SoundManager;    //用來撥聲音的SoundManager
+    public AudioSource SoundManager;    //用來播聲音的SoundManager
     public AudioClip Dot;               //摩斯密碼-點(Dot)
     public AudioClip Dash;              //摩斯密碼-劃(Dash)
     public Text text;                   //UI放打出來的字
